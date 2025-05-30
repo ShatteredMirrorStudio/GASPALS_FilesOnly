@@ -5,6 +5,7 @@ Yet another GASP extension project in a myriad of others. This one is focused pr
 ## Features
 - First-Person GASP template with several camera and movement options. From creating static camera FPS character with GASP body, to fully dynamic and immersive parkour character.
 - Improved overlay system with separate Pose and Overlay layers. Easily combine base character pose and full body overlay.
+- Seamlessly blends motion-matching movement with custom poses and overlays with only layering and animcurves.
 - ALS and City Sample poses and animations. Combine not only old ALS animations, but also newer CitySample poses and accessories.
 - Switching between FP and TP camera view.
 - Obligatory climb-anywhere traversal system. 
@@ -13,7 +14,7 @@ Yet another GASP extension project in a myriad of others. This one is focused pr
 
 ## Notes
 - If you want full version of this project, you can find it [Here](https://github.com/ShatteredMirrorStudio/GASPALS)
-- Lot of the blueprints and changes are commented, but I am also a mess. Sorry.
+- Many of the blueprints and changes are commented, but lot of it is still a mess. Sorry.
 - Traversal component is based on https://github.com/PolygonHive/GASP-ALS  
 
 ## Quick Start
